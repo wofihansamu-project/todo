@@ -1,0 +1,8 @@
+name = "todo"
+main = "src/index.js"
+compatibility_date = "2025-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "todo-db"
+database_id = "57100fc1-5d05-4520-ae48-19a372212d71" # dari: npx wrangler d1 create todo-db
